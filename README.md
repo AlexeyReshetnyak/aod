@@ -11,8 +11,13 @@ MAY 2013
 Lucia Maddalena, Member, IEEE, and Alfredo Petrosino, Senior Member, IEEE
 
 Installation:
+
 git clone https://github.com/AlexeyReshetnyak/aod.git
+
 cd aod/aod3d
+
 make
+
 cd ..
+
 ./run.sh
